@@ -1,0 +1,4 @@
+hyperliquid-python-sdk
+flask
+eth-account
+gunicorn
